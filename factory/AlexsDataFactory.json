@@ -1,0 +1,9 @@
+{
+	"name": "AlexsDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae4b6d9c-1d10-45c8-8437-c667d23a51ed",
+		"tenantId": "11d898a6-8039-424d-96db-142b4f2c0d57"
+	}
+}
